@@ -1,0 +1,28 @@
+# Buy or Wait - Financial Agent
+# HackerRank Orchestrate September 26
+# Dependencies
+
+# LLM & AI
+google-generativeai>=0.3.0  # Google Gemini API
+anthropic>=0.25.0           # Anthropic Claude API (fallback)
+
+# Data Processing
+pandas>=2.0.0            # DataFrames & CSV manipulation
+numpy>=1.24.0            # Numerical operations
+
+# Image Processing
+pillow>=10.0.0           # Image handling for OCR
+opencv-python>=4.8.0     # Optional: advanced image processing
+
+# Utilities
+python-dotenv>=1.0.0     # Environment variable management
+requests>=2.31.0         # HTTP requests (if needed)
+
+# Development & Testing
+pytest>=7.4.0            # Unit testing
+black>=23.0.0            # Code formatting
+flake8>=6.0.0            # Linting
+mypy>=1.4.0              # Type checking
+
+# Logging & Monitoring
+python-json-logger>=2.0.7  # JSON logging (optional)
