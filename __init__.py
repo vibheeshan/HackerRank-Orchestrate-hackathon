@@ -1,3 +1,3 @@
 """
-Buy or Wait Agent Code Package
+Buy or Wait Evaluation Sub-Package
 """
