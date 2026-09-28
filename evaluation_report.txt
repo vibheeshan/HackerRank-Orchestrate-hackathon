@@ -1,0 +1,23 @@
+
+================================================================================
+EVALUATION REPORT
+================================================================================
+
+Total Requests Evaluated: 25
+Exact Matches: 25
+Partial Matches: 0
+Accuracy: 100.00%
+
+Amount Errors: 0
+- Average error: $0.00
+- Max error: $0.00
+
+Status Mismatches: 0
+
+
+Method Mismatches: 0
+
+
+Total Mismatches: 0
+
+================================================================================
